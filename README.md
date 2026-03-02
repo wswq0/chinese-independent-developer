@@ -20,24 +20,30 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 2 号添加
+#### 我是欧阳 - [Github](https://github.com/iamouyang21)
+* :white_check_mark: [Nano Banana 2](https://nanobanana-2.xyz)：AI 生图工具，Nano Banana 2 是面向设计师、运营和内容创作者的在线 AI 生图工具，支持「预设工坊 + 自由创作」双模式，内置多种风格模板与 50+ 涂鸦字体，输入文字即可快速生成高质量图片；同时支持多语言文字渲染、参数可调、浏览器即开即用。最新上线的批量生图功能可一次生成多张或多版本图片，适合海报、电商素材和社媒内容的规模化生产，显著提升出图效率
+
 ### 2026 年 3 月 1 号添加
+#### hanshs474 - [Github](https://github.com/hanshs474)
+* :white_check_mark: [nano banana2](https://www.ainanobanana2.pro)：AI 图片生成工具，支持 Nano Banana 系列模型
 
 #### mundane - [Github](https://github.com/mundane799699)
-* :white_check_mark: [aihugvideo.app](https://aihugvideo.app)：AI Hug是最好的AI拥抱视频生成网站🤗，使用AI Hug可以在几分钟内轻松构建您的AI拥抱视频，简单且毫不费力。
+* :white_check_mark: [aihugvideo.app](https://aihugvideo.app)：AI Hug 是最好的 AI 拥抱视频生成网站🤗，可以在几分钟内轻松构建您的 AI 拥抱视频
 
 #### sonicker(上海) - [GitHub](https://github.com/cursorzephyr002-lgtm)
-* :white_check_mark: [Sonicker](https://www.sonicker.com)：AI 语音克隆平台，3 秒克隆任何声音，保留情感和口音。支持中英日韩等 10 种语言的语音合成，提供 50+ 预设声音库和 AI 声音设计功能。
+* :white_check_mark: [Sonicker](https://www.sonicker.com)：AI 语音克隆平台，3 秒克隆任何声音，保留情感和口音。支持中英日韩等 10 种语言的语音合成，提供 50+ 预设声音库和 AI 声音设计功能
 
 #### kristoff
-* :white_check_mark: [Nano Banana AI](https://nano-banana.love/)：AI生图工具
+* :white_check_mark: [Nano Banana AI](https://nano-banana.love/)：AI 生图工具
 
 #### ZhuccIvan - [Github](https://github.com/ZhuccIvan)
-* :white_check_mark: [ShopAI](https://vipvan.cc/shop-ai)：一键生成电商详情图，简化商家操作复杂度
+* :white_check_mark: [ShopAI](https://vipvan.cc/shop-ai)：生成电商详情图，简化商家操作复杂度
 
 ### 2026 年 2 月 28 号添加
 
 #### azt1112 - [Github](https://github.com/azt1112)
-* :white_check_mark: [Seedance 2 Pro](https://seedance2pro.pro/)：多模态AI视频生成平台。支持文本+多张图片+视频+音频参考同时输入，实现角色一致性、多镜头叙事、音频同步动作、精准镜头控制。几分钟生成商业级短视频，适合营销、电商、社交媒体、品牌故事、预可视化等高频内容创作需求。比传统文生视频更可控、更接近导演级表达
+* :white_check_mark: [Seedance 2 Pro](https://seedance2pro.pro/)：多模态 AI 视频生成平台。支持文本+多张图片+视频+音频参考同时输入，实现角色一致性、多镜头叙事、音频同步动作、精准镜头控制。几分钟生成商业级短视频，适合营销、电商、社交媒体、品牌故事、预可视化等高频内容创作需求。比传统文生视频更可控、更接近导演级表达
 
 #### yuhoayu-arch - [Github](https://github.com/yuhoayu-arch)
 * :white_check_mark: [Speakoala](https://speakoala.com/zh)：集“全格式兼容、超自然人声、沉浸式听感”于一体的智能语音助手，能将网页、邮件及 PDF/Word 等本地文档一键转化为媲美真人的多国语言朗读，配合词级高亮同步、背景白噪音及最高 4 倍速调节，解放用户双眼，让深度阅读在通勤、家务或健身的碎片化场景中焕发新生
