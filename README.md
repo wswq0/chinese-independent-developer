@@ -20,6 +20,18 @@
 
 ## 3. 项目列表
 
+#### my19940202(上海) - [Github](https://github.com/my19940202)
+* :white_check_mark: [macLaunchpads macOS 26 的最佳启动台替代品](https://maclaunchpad.aizeten.me/)：macOS 26启动台改版不习惯？那就直接访问 maclaunchpad.aizeten.me 回到最初的感觉
+
+
+### 2026 年 3 月 12 号添加
+
+#### zhangxiaoyuan2025 - [Github](https://github.com/zhangxiaoyuan2025)
+* :white_check_mark: [OutfitSwap Studio](https://outfitswapstudio.com/)：AI 换装 / 虚拟试衣工具，支持 AI Clothes Changer、Virtual Try-On 和 Outfit Swap，上传照片即可生成换装效果
+
+#### bytevirts - [Github](https://github.com/bytevirts)
+* :white_check_mark: [Vibe Video](https://vibevideo.app)：面向普通用户的 AI 视频生成网站，支持文生视频、图生视频、参考图生视频和电影化镜头控制，适合创作者和营销团队快速产出视频
+
 ### 2026 年 3 月 11 号添加
 
 #### dagouzhi(成都) - [Github](https://github.com/htyf-mp-community), [官网](https://mp.dagouzhi.com/)
@@ -3039,7 +3051,7 @@
 
 ### 2024 年 7 月 13 号添加
 #### 约翰 - [Github](https://github.com/johanazhu)，[博客](https://blog.azhubaby.com/)
-* :x: [小报童专栏导航](https://xiaobot.tools/)：为你筛选最优质最全面的小报童专栏
+* :white_check_mark: [小报童专栏导航](https://xiaobaot.cn/)：为你筛选值得订阅的小报童优质专栏
 
 ### 2024 年 7 月 11 号添加
 #### xiaosong gao - [GitHub](https://github.com/xiaoosnggao)
