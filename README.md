@@ -20,6 +20,33 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 25 号添加
+
+#### DieselNiu - [Github](https://github.com/DieselNiu)
+* :white_check_mark: [Movart.ai](https://movart.ai/)：AI 驱动的视频生成与动态艺术创作平台。支持将静态图片、文本提示转化为高质量动态视频。内置多种艺术风格模板，提供运动控制和帧级调整功能。在浏览器内完成视觉叙事，适用于社交媒体营销、动画制作及个人艺术创作
+
+#### iaminyu - [Github](https://github.com/iaminyu)
+* :white_check_mark: [LiveTalk Translate](https://livetalktranslate.com/)：针对面对面交流场景的语音翻译工具，提供比 Google Translate 更准确、交互更方便的语音翻译体验，支持深度交流
+* :white_check_mark: [MatchMyType](https://matchmytype.org/)：基于 MBTI 理论，提供不同人格类型的人在恋爱、职场、交友中相处的分析和建议，并提供免费的MBTI分析报表
+
+#### yvonuk - [推特](https://x.com/mcwangcn)
+* :white_check_mark: [ChatBYOK.com](https://chatbyok.com)：提供原生 ChatGPT 体验的 Telegram 机器人，支持多模态输入（文字/图片/文件）、实时搜索、生图/修图、PDF 输出
+
+#### Moresl - [Github](https://github.com/Moresl)
+* :white_check_mark: [CCHub](https://github.com/Moresl/cchub)：Claude Code 生态管理平台，支持 MCP 服务器管理、Skill 技能管理、多配置切换、自定义 Slash Command 等功能，基于 Tauri v2 构建的桌面应用
+
+#### 超能刚哥 - [Github](https://github.com/margox)
+* :white_check_mark: [订阅宝](https://apps.apple.com/cn/app/id6759794831)：iOS纯原生风格且功能完备的一站式订阅服务管理应用，提供数据分析、到期/续期提醒、桌面小组件等实用功能。
+* :white_check_mark: [重要日子](https://apps.apple.com/cn/app/id6759002825)：极简舒适风格的倒数日管理App，仅包含管理重要日期的核心功能，没有其他乱七八糟的功能。
+
+### 2026 年 3 月 24 号添加
+
+#### Chaoc2624 - [Github](https://github.com/Chaoc2624)
+* :white_check_mark: [playcharades.fun](https://playcharades.fun)：线上你画我猜，500+个词汇涵盖11个分类。为儿童、成人或所有年龄段生成随机词汇。8种语言免费游戏。
+
+#### simple-Jian-tw - [Github](https://github.com/simple-Jian-tw)
+* :white_check_mark: [AnimeGen](https://animegen.ai/)：AI 照片转动漫工具，可将肖像、自拍、宠物或旅行照片转换为多种动漫风格，快速生成可下载结果，适用于头像、社交媒体帖子和创意项目。
+
 ### 2026 年 3 月 23 号添加
 
 #### Miracle(杭州) - [Github](https://github.com/zhoulianbo)
