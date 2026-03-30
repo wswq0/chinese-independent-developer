@@ -20,6 +20,36 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 30 号添加
+
+#### jeffreys-cat - [Github](https://github.com/jeffreys-cat)
+* :white_check_mark: [Dory](https://github.com/dorylab/dory)：现代化、AI 原生的数据工作台，支持 MySQL、Postgres、SQLite、Clickhouse 等，Dbeaver / Navicat 替换
+
+#### Locke
+* :white_check_mark: [TesLyr](https://teslyr.com)：基于网页的实时同步歌词显示，适用于特斯拉触摸屏，可在驾驶时使用，支持几乎所有音乐源，包括原生 Spotify、Apple Music、Tidal、USB 驱动器和蓝牙音频。
+
+#### businesszh - [Github](https://github.com/businesszh)
+* :white_check_mark: [UNI-1](https://uni-1.org/)：Luma AI 的统一推理与视觉想象模型，从一个逻辑大脑中生长出“心灵之眼”
+
+#### Windyan(深圳）-[Github](https://github.com/windyan233)
+* :white_check_mark: [ThumbnailMaker](https://thumbnail-maker.com)：帮助视频创作者生成高点击率的封面图
+
+#### 小鹿(旅居中)
+* :white_check_mark: [IdeaFit](https://smallbusinessideas.co)：帮你找到真正符合你的预算、时间和技能的小企业创业点子
+
+#### Gingiris - [Github](https://github.com/Gingiris)
+* :white_check_mark: [Gingiris Growth Tools](https://github.com/Gingiris/growth-tools)：出海增长工具集合，涵盖KOL管理、SEO工具、Reddit增长、UGC管理、社媒触达等
+
+#### imsg - [Github](https://github.com/imsg)
+* :white_check_mark: [Tooluck.org](https://www.tooluck.org)：AI 工具导航站，AI自动填写功能，免费收录，帮助新AI网站提升SEO权重
+
+#### xixihhhh - [Github](https://github.com/xixihhhh)
+* :white_check_mark: [OpeniLink Hub](https://github.com/openilink/openilink-hub)：基于微信 iLink 协议的开源消息管理平台，支持接入大模型实现自动回复、应用市场安装功能、消息桥接多平台、远程操控及多语言 SDK。
+
+#### yanglian(珠海) - [Github](https://github.com/lian-yang)
+* :white_check_mark: [LTools](https://github.com/lian-yang/ltools)：基于 Wails v3 的插件化跨平台桌面工具箱，集成计算器、剪贴板管理、截图、JSON 编辑、音乐播放器、图片处理等实用工具
+
+
 ### 2026 年 3 月 27 号添加
 
 #### Yaou(上海) - [Github](https://github.com/nogeek-net)
