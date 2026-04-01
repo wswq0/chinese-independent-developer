@@ -20,7 +20,24 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 1 号添加
+
+#### kristoff
+* :white_check_mark: [IndieAI Directory](https://indieai.directory/)：收录独立开发者的AI Saas
+
+#### qqxufo - [Github](https://github.com/qqxufo)
+* :white_check_mark: [Image To 3D](https://imageto3d.cc/?source=github)：将图像转换为 3D 模型
+
 ### 2026 年 3 月 31 号添加
+
+#### vampirewy - [Github](https://github.com/vampirewy)
+* :white_check_mark: [AI Family Photo Generator](https://aifamilyphotogenerator.org)：在线工具，可从单独的照片创建逼真的家庭照片和全家福。上传家庭成员的个人照片或描述您想要的肖像，该工具将生成可下载、分享、打印或保存的自然家庭图像。
+
+#### luzedong - [Github](https://github.com/luzedong)
+* :white_check_mark: [Anycoding](https://github.com/luzedong/anycoding)：CLI-First AI 编程工作台，把 Claude Code、Codex、Cursor、Gemini 和 OpenCode等 CLI统一到桌面/Web 界面中，用更少切换完成多会话开发。
+
+#### jacobmillerv - [Github](https://github.com/jacobmillerv)
+* :white_check_mark: [Mee Manga Translator](https://mangatranslator.me/)：基于 AI 的漫画翻译工具，支持将日漫、韩漫等图片一键翻译成目标语言，并自动保留原有排版与气泡位置，实现自然、可读性高的漫画翻译体验
 
 #### 士季(上海） - [Github](https://github.com/Albert-Weasker)
 * :white_check_mark: [DevIntro 2.0](https://www.intent-leads.com)：在 72 小时内找到前 1,000 个高意向用户，用真实信号完成冷启动
