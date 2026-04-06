@@ -20,17 +20,45 @@
 
 ## 3. 项目列表
 
-## 2026年4月5日新增  
+### 2026 年 4 月 6 号添加
 
-* :white_check_mark: [Word Counter - 字数统计工具](https://www.primenotepad.com/tools/word-counter)：在线字数统计工具，可实时统计文本的字数、字符数、句子数等信息
+#### my19940202(上海) - [Github](https://github.com/my19940202)
+* :white_check_mark: [banana-PPT](http://ppt.hoduan.com/)：Banana PPT 是一款基于 AI 的原生 PPT 生成工具。从想法到演示文稿，只需一句话。 告别繁琐的手动排版，让 AI 帮你完成设计、配图、配色的全部工作。（基于开源项目banana-slides）
 
+#### Harries - [Github](https://github.com/Harries)
+* :white_check_mark: [yizhan.club](https://www.yizhan.club/)：发现、比较和推荐最新 AI 工具的平台
+
+#### WildMildNull
+* :white_check_mark: [StreamWindow](https://macdev.cn/)：MacOS平台一款全新的3D窗口管理工具，支持漂亮、炫酷的CoverFlow封面流转特效，摩天轮效果和扑克牌洗牌特效等，满足高效办公的同时，也增添更多好玩的操作乐趣。
+* :white_check_mark: [TickTot](https://macdev.cn/ticktot)：专为老师、家长和儿童设计的钟表时间辅助学习工具，指针支持配置不同颜色，指针以动画形式，动态直观地呈现时针走一小格，分针走几格，秒针转几圈的规律。
+
+#### calderbuild - [Github](https://github.com/calderbuild)
+* :white_check_mark: [MeetSpot 聚点](https://meetspot-irq2.onrender.com/)：多人聚会地点智能推荐工具，输入 2-10 人地址，用球面几何算法计算公平中点，AI 评分推荐附近高评分场所，覆盖 350+ 城市，免费使用无需注册。
+
+#### MattCraftsCode - [Github](https://github.com/MattCraftsCode)
+* :white_check_mark: [AI Amazing](https://aiamazing.art)：AI 图像/视频生产平台，面向创作者与团队
+
+### 2026 年 4 月 5 号添加
+
+#### AprDeci - [Github](https://github.com/AprDeci)
+* :white_check_mark: [bili-music](https://github.com/AprDeci/bili-music)：音乐App，基于 bilibili 音源
+
+#### 1996fanrui - [Github](https://github.com/1996fanrui)
+* :white_check_mark: [Agents Sandbox](https://agents-sandbox.com)：AI Agent 安全沙箱，一条命令让 Claude Code、Codex、OpenClaw 等 AI Agent 在完全隔离的容器中以无限制权限运行，宿主机零风险。支持 CLI 和 Python SDK
+
+* :white_check_mark: [Word Counter - 字数统计工具](https://www.primenotepad.com/tools/word-counter)：字数统计工具，可实时统计文本的字数、字符数、句子数等信息
+
+#### Shawn(北京) - [Github](https://github.com/ShawnHacks)
+* :white_check_mark: [Beautyface AI](https://beautyface.app)：AI 图片生成工具，主要定位人像生成，包括职业照、艺术照、风格化、逆向提示词等 - [更多介绍](https://beautyface.app/)
+* :white_check_mark: [AI Onekit](https://aionekit.com)：AI 聚合模型创作平台 - [更多介绍](https://aionekit.com/models)
+  
 ### 2026 年 4 月 3 号添加
 
 #### syakadou - [Github](https://github.com/syakadou)
-* :white_check_mark: [Gemini Watermark remover](https://gemini-watermark-remover.net/)：去除Gemini App生成的AI图片水印
+* :white_check_mark: [Gemini Watermark remover](https://gemini-watermark-remover.net/)：去除 Gemini App 生成的 AI 图片水印
 
 #### xiehuateng - [Github](https://github.com/xiehuateng)
-* :white_check_mark: [x downloader](https://x-video-download.net)：解析推特（X）上的AI视频及各种视频链接，支持一键下载多种清晰度视频。
+* :white_check_mark: [x downloader](https://x-video-download.net)：解析推特（X）上的 AI 视频及各种视频链接，支持一键下载多种清晰度视频。
 
 #### jjk340 - [Github](https://github.com/jjk340)
 * :white_check_mark: [Clarioxis](https://clarioxis.com)：AI 教育智能体工具，打造“资料分析+AI视频讲解+随堂练习+智能复盘”的一站式学习闭环
@@ -884,7 +912,7 @@
 * :white_check_mark: [OneClip](https://oneclip.cloud/)：剪贴板管理工具（专为 macOS 设计），支持多种格式内容管理，智能搜索和分类，让您的复制粘贴操作更加便捷高效 - [更多介绍](https://wcowin.work/blog/OneClip/)
 
 #### Shawn(北京) - [Github](https://github.com/ShawnHacks)
-* :x: [Screentell](https://screentell.com)：录屏工具(低门槛)，可以满足 90 %以上的录屏 DEMO 需求，特色支持手绘风格贴纸 - [更多介绍](https://x.com/ShawnHacks/status/1996480396637446197)
+* :white_check_mark: [Screentell](https://screentell.com)：录屏工具(低门槛)，可以满足 90 %以上的录屏 DEMO 需求，特色支持手绘风格贴纸 - [更多介绍](https://x.com/ShawnHacks/status/1996480396637446197)
 
 #### biboom(广州)
 * :white_check_mark: [YouTube 字幕生成器](https://transcriptinprogress.online)：将 Youtube 视频转为文字
