@@ -23,7 +23,17 @@
 
 ## 3. 项目列表
 
+
+### 2026 年 4 月 15 号添加
+
+#### Listing诊断器团队 - [GitHub](https://github.com/yifanyifan897645)
+* :white_check_mark: [Listing诊断器](https://yifanyifan897645.github.io/listing-analyzer/)：免费在线跨境电商 Listing 质量分析工具，支持亚马逊/速卖通/Shopify，检测标题长度、关键词密度、卖点结构，给出优化建议。纯浏览器端处理，无需注册，数据不上传。
+
+
 ### 2026 年 4 月 14 号添加
+
+#### 王一舠(南京) - [Github](https://github.com/stardust1900), [博客](https://wangxuan.me)
+* :white_check_mark: [草灰笔记](https://github.com/stardust1900/ashes_note)：基于Flutter开发的跨平台笔记应用，专注于笔记管理功能。同时还是一款epub阅读器，可以将读书笔记以markdown格式直接导出到笔记管理中。
 
 #### 河池 - [Github](https://github.com/superbogy), [博客](https://docs.egosapp.com/blog)
 * :white_check_mark: [egos](https://egosapp.com)：零配置mini-NAS，个人设备文件传输和分享
