@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 6 号添加
+
+#### TNT-Likely - [Github](https://github.com/TNT-Likely)
+* :white_check_mark: [BeeCount 蜜蜂记账](https://beecount-website.pages.dev)：开源跨平台记账 App（Android/iOS/Web），主打数据自主与隐私优先 —— 支持自建 BeeCount Cloud / iCloud / Supabase / WebDAV / S3 多端同步，离线可用，可选 AI 识别账单图片自动记账，无广告无订阅 - [Github](https://github.com/TNT-Likely/BeeCount)
+
 ### 2026 年 5 月 4 号添加
 
 #### retryu - [Github](https://github.com/retryu)
