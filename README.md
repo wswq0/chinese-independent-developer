@@ -25,6 +25,15 @@
 
 ### 2026 年 5 月 7 号添加
 
+#### suncoliner - [Github](https://github.com/suncoliner)
+* :white_check_mark: [GPT Image 2](https://gptimage2.dev)：AI 图片生成工具，支持快速生成高质量图片，适合用于设计灵感、内容创作、社交媒体配图等场景。
+
+#### Eason(Winnipeg) - [Github]https://github.com/diroverflow
+* :white_check_mark: [My Lover Online](https://my-lover.online/)：AI 虚拟伴侣平台，上传照片即可"复活"已故或离别的亲人、恋人、宠物，AI 会学习你们的共同记忆，越聊越像本人，还支持语音通话和生成合照。
+
+#### zhugezifang - [Github](https://github.com/zhugezifang)
+* :white_check_mark: [图片转链接工具](https://share-text.org/zh/image-to-url)：把本地图片快速转换成可分享的直链，面向真实使用场景设计，适合需要上传图片、获取 URL，并粘贴到网页、Markdown、工单系统、知识库或聊天工具中的用户。
+
 #### hooosberg - [Github](https://github.com/hooosberg)
 * :white_check_mark: [Rushi 如是](https://apps.apple.com/us/app/rushi-sutra-mala-meditation/id6766074713)：免费、无广告、全离线的 iOS 佛教工具，金刚经·心经·佛珠·抄经四合一，经文文本以 CC0 开源，独立开发者用 Codex AI 写的第一款 iOS App - [Github](https://github.com/hooosberg/Rushi)
 
