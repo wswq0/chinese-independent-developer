@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 7 号添加
+
+#### hooosberg - [Github](https://github.com/hooosberg)
+* :white_check_mark: [Rushi 如是](https://apps.apple.com/us/app/rushi-sutra-mala-meditation/id6766074713)：免费、无广告、全离线的 iOS 佛教工具，金刚经·心经·佛珠·抄经四合一，经文文本以 CC0 开源，独立开发者用 Codex AI 写的第一款 iOS App - [Github](https://github.com/hooosberg/Rushi)
+
 ### 2026 年 5 月 6 号添加
 
 #### TNT-Likely - [Github](https://github.com/TNT-Likely)
