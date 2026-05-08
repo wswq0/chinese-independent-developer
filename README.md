@@ -23,6 +23,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 8 号添加
+
+#### coodersio - [Github]https://github.com/coodersio
+* :white_check_mark: [webp to svg](https://svgconverter.cloud/webp-to-jpg/)：webp 转 svg 工具
+
+#### Xingshu - [Github](https://github.com/xszn/xszn.github.io)
+* :white_check_mark: [行书指南](https://xszn.org/zh/)：免费和开源软件列表，推荐高质量免费与开源软件，降低寻找软件的时间成本，用“人工精选 + 社区维护”的方式帮用户低成本、高效率地找到真正值得使用的开源软件
+
 ### 2026 年 5 月 7 号添加
 
 #### suncoliner - [Github](https://github.com/suncoliner)
