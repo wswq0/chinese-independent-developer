@@ -23,13 +23,26 @@
 
 ## 3. 项目列表
 
-### 2026 年 5 月 8 号添加
+
+### 2026 年 5 月 9 号添加
 
 #### coodersio - [Github]https://github.com/coodersio
 * :white_check_mark: [webp to svg](https://svgconverter.cloud/webp-to-jpg/)：webp 转 svg 工具
 
 #### Xingshu - [Github](https://github.com/xszn/xszn.github.io)
 * :white_check_mark: [行书指南](https://xszn.org/zh/)：免费和开源软件列表，推荐高质量免费与开源软件，降低寻找软件的时间成本，用“人工精选 + 社区维护”的方式帮用户低成本、高效率地找到真正值得使用的开源软件
+
+#### WilliamLevels - [Github](https://github.com/WilliamLevels)
+* :white_check_mark: [AI SVG Generator](https://svggenerator.org)：AI SVG 生成器，可将文本即时转换为精美的 SVG 图标、Logo 和矢量图形。
+
+#### gf1023456 - [Github](https://github.com/gf1023456)
+* :white_check_mark: [古代灵魂测试](https://tonystark-ai.ccwu.cc/apti/)：25 道题测一测你得古代灵魂
+
+### 2026 年 5 月 8 号添加
+
+#### jsxyzb - [Github](https://github.com/jsxyzb)
+* :white_check_mark: [VideoSnap](https://videosnap.cc/): 在线视频处理工具，无需安装和登录，支持压缩、转码、提取音频等常用功能，文件在本地浏览器处理，兼顾隐私与速度。
+
 
 ### 2026 年 5 月 7 号添加
 
