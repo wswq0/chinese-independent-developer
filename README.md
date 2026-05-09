@@ -26,6 +26,9 @@
 
 ### 2026 年 5 月 9 号添加
 
+#### WilliamLevels - [Github](https://github.com/WilliamLevels)
+* :white_check_mark: [AI SVG Generator](https://svggenerator.org)：AI SVG 生成器，可将文本即时转换为精美的 SVG 图标、Logo 和矢量图形。
+
 #### gf1023456 - [Github](https://github.com/gf1023456)
 * :white_check_mark: [古代灵魂测试](https://tonystark-ai.ccwu.cc/apti/)：25 道题测一测你得古代灵魂
 
