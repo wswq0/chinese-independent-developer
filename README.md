@@ -23,10 +23,18 @@
 
 ## 3. 项目列表
 
+
 ### 2026 年 5 月 9 号添加
 
 #### gf1023456 - [Github](https://github.com/gf1023456)
-* :white_check_mark: [古代灵魂测试](https://tonystark-ai.ccwu.cc/apti/)：25道题测一测你得古代灵魂
+* :white_check_mark: [古代灵魂测试](https://tonystark-ai.ccwu.cc/apti/)：25 道题测一测你得古代灵魂
+
+### 2026 年 5 月 8 号添加
+
+#### jsxyzb - [Github](https://github.com/jsxyzb)
+* :white_check_mark: [VideoSnap](https://videosnap.cc/): 在线视频处理工具，无需安装和登录，支持压缩、转码、提取音频等常用功能，文件在本地浏览器处理，兼顾隐私与速度。
+
+### 2026 年 5 月 7 号添加
 
 #### suncoliner - [Github](https://github.com/suncoliner)
 * :white_check_mark: [GPT Image 2](https://gptimage2.dev)：AI 图片生成工具，支持快速生成高质量图片，适合用于设计灵感、内容创作、社交媒体配图等场景。
