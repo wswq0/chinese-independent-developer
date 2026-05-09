@@ -41,7 +41,7 @@
 #### RawandDev - [Github](https://github.com/RawandDev)
 * :white_check_mark: [Xeramail](https://xeramail.com/)：临时邮箱工具，可快速生成一次性邮箱地址，用于注册网站、接收验证码、避免垃圾邮件，并支持自定义邮箱名称与测试邮件发送功能。
 
-#### coodersio - [Github]https://github.com/coodersio
+#### coodersio - [Github](https://github.com/coodersio)
 * :white_check_mark: [webp to svg](https://svgconverter.cloud/webp-to-jpg/)：webp 转 svg 工具
 
 #### Xingshu - [Github](https://github.com/xszn/xszn.github.io)
@@ -51,12 +51,12 @@
 * :white_check_mark: [AI SVG Generator](https://svggenerator.org)：AI SVG 生成器，可将文本即时转换为精美的 SVG 图标、Logo 和矢量图形。
 
 #### gf1023456 - [Github](https://github.com/gf1023456)
-* :white_check_mark: [古代灵魂测试](https://tonystark-ai.ccwu.cc/apti/)：25 道题测一测你得古代灵魂
+* :white_check_mark: [古代灵魂测试](https://tonystark-ai.ccwu.cc/apti/)：25 道题测一测你的古代灵魂
 
 ### 2026 年 5 月 8 号添加
 
 #### jsxyzb - [Github](https://github.com/jsxyzb)
-* :white_check_mark: [VideoSnap](https://videosnap.cc/): 在线视频处理工具，无需安装和登录，支持压缩、转码、提取音频等常用功能，文件在本地浏览器处理，兼顾隐私与速度。
+* :white_check_mark: [VideoSnap](https://videosnap.cc/): 视频处理工具，无需安装和登录，支持压缩、转码、提取音频等常用功能，文件在本地浏览器处理，兼顾隐私与速度。
 
 
 ### 2026 年 5 月 7 号添加
