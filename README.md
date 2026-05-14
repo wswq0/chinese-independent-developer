@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 12 号添加
+
+#### ZengLiangYi
+* :white_check_mark: [ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal)：AI 对话知识提炼工具，导入 Claude Code/Cursor/Codex/Trae/Copilot 对话，自动生成结构化笔记，支持语义搜索和知识图谱
+
 ### 2026 年 5 月 11 号添加
 
 #### hwlvipone - [Github](https://github.com/hwlvipone)
