@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 15 号添加
+
+#### zjg678 - [Github](https://github.com/zjg678)
+* :white_check_mark: [超能文献（Suppr）](http://suppr.wilddata.cn/)：医学文献检索工具，支持中文自然语言搜索PubMed、AI文档翻译、25分钟生成文献综述 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/920)
+
 ### 2026 年 5 月 14 号添加
 
 #### Corey Chiu(深圳) - [Github](https://github.com/iamcorey), [博客](https://coreychiu.com)
