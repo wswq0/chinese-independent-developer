@@ -23,6 +23,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 15 号添加
+
+#### zjg678 - [Github](https://github.com/zjg678)
+* :white_check_mark: [超能文献（Suppr）](http://suppr.wilddata.cn/)：医学文献检索工具，支持中文自然语言搜索PubMed、AI文档翻译、25分钟生成文献综述
+* :white_check_mark: [Zotero翻译插件](https://github.com/WildDataX/suppr-zotero-plugin)：在Zotero文献管理器中直接右键翻译PDF文档，保持格式不变
+* :white_check_mark: [API接口](https://openapi.suppr.wilddata.cn/introduction.html)：提供文献检索、文档翻译、深度研究等核心功能的API服务
+* :white_check_mark: [MCP服务](https://github.com/WildDataX/suppr-mcp)：支持在AI应用中接入超能文献能力的Model Context Protocol服务
+
 ### 2026 年 5 月 14 号添加
 
 #### Corey Chiu(深圳) - [Github](https://github.com/iamcorey), [博客](https://coreychiu.com)
