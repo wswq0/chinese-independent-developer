@@ -23,7 +23,15 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 16 号添加
+
+#### peter - [Github](https://github.com/peter1234503)
+* :white_check_mark:  [Fancy Font Generator](https://cursivegeneratorai.com/)：在线花体字体生成工具，输入文字即可生成多种精美字体样式，支持一键复制，适合用于社交昵称、个人简介、签名和装饰文本，无需注册即可使用。
+
 ### 2026 年 5 月 15 号添加
+
+#### Poge(广州) - [Github](https://github.com/coderWenzi)
+* :white_check_mark: [GPT Image 2 AI](https://gptimage2app.com/)：AI 图像与视频创作平台
 
 #### zjg678 - [Github](https://github.com/zjg678)
 * :white_check_mark: [超能文献（Suppr）](http://suppr.wilddata.cn/)：医学文献检索工具，支持中文自然语言搜索PubMed、AI文档翻译、25分钟生成文献综述 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/920)
