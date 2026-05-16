@@ -30,6 +30,9 @@
 
 ### 2026 年 5 月 15 号添加
 
+#### Poge(广州) - [Github](https://github.com/coderWenzi)
+* :white_check_mark: [GPT Image 2 AI](https://gptimage2app.com/)：AI 图像与视频创作平台
+
 #### zjg678 - [Github](https://github.com/zjg678)
 * :white_check_mark: [超能文献（Suppr）](http://suppr.wilddata.cn/)：医学文献检索工具，支持中文自然语言搜索PubMed、AI文档翻译、25分钟生成文献综述 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/920)
 
