@@ -23,6 +23,19 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 20 号添加
+
+#### 2569658930(东莞) - [Github](https://github.com/2569658930)
+* :white_check_mark: [Suno Funnel](https://2569658930.github.io/tan/)：AI 音乐翻唱/Remix 提示词一键生成工具，选艺人+填想法+选风格 → 3 秒生成 Suno prompt，内置汽水音乐上传过审攻略、100 条精选 Prompt 模板、15 位艺人风格参数库。零依赖，开箱即用，网页版/命令行双模式。
+
+### 2026 年 5 月 19 号添加
+
+#### Paul Peng（深圳）
+* :white_check_mark: [憩连](https://www.qliann.com)：项目整理工具，按「空间→项目→时刻→事件→子事件」结构管理事件、文件和讨论，可按时间、主题或重要性灵活排列
+
+#### yv1ing(合肥) - [Github](https://github.com/yv1ing)
+* :white_check_mark: [Z3r0](https://z3r0.fans/)：基于多Agent协同的红队协作平台，内置安全领域专家团队和可控沙盒环境，自动化完成情报、渗透、逆向等工作
+
 ### 2026 年 5 月 18 号添加
 
 #### worminone - [Github](https://github.com/worminone)
