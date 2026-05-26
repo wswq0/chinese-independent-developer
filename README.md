@@ -23,6 +23,15 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 25 号添加
+
+#### Leochens - [Github](https://github.com/Leochens)
+* :white_check_mark: [MuseUI](https://muse.guantou.site/)：开源的纯浏览器运行的 AI 画布式图片工作台，可生成 UI 原型、文章封面、信息图、Logo、贴纸、社交媒体配图
+
+#### Shawn(北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com/)
+* :white_check_mark: [AITrustList](https://aitrustlist.com/)：AI工具目录导航网站，收录AI工具并对网站做流量排名
+* :white_check_mark: [Needoh Fun](https://needoh.fun/)：Needoh 评测指南，以及 Needoh 和其他高端指尖玩具的最新产品资讯，缓解压力，享受乐趣
+
 ### 2026 年 5 月 24 号添加
 
 #### XFSeven7 - [Github](https://github.com/XFSeven7)
@@ -276,7 +285,6 @@
 
 #### futurearrived - [Github](https://github.com/futurearrived)
 * :white_check_mark: [PhotoRestore.ai](https://photorestore.ai)：AI 照片修复工具，支持老照片修复、划痕去除、黑白照片上色与图像增强，上传即可自动修复，无需注册
-* :white_check_mark: [FigureGPT](https://figuregpt.ai)：粘贴论文文字，AI 自动生成可发表的科学图表，支持柱状图、折线图、散点图、流程图和架构图，导出 PNG/SVG/PDF
 
 ### 2026 年 4 月 25 号添加
 
