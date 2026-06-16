@@ -23,7 +23,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 16 号添加
+#### Tom - [GitHub](https://github.com/ykphdzz)
+* :white_check_mark: [TarotYet](https://tarotyet.com/)：免费 AI 塔罗牌占卜平台。提供情境感知的 Yes/No 塔罗占卜和深度爱情塔罗解读，帮助做出清晰可行的决策
+
 ### 2026 年 6 月 15 号添加
+
+#### Lessur(广州) - [Github](https://github.com/lessurlx)
+* :white_check_mark: [StoryIntoVideo](https://storyintovideo.com/)：AI 故事转视频 | 小说一键生成短剧视频
 
 #### Jixer(成都) - [Github](https://github.com/jixer666), [博客](https://vuepress.jixer.top/)
 * :white_check_mark: [Omni](http://omni.jixer.top)：专属于个人的知识库，支持Notion风格富文本编辑器，无限制创建文档
